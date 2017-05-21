@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/faaann
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.uhud.io
+  * I am faaann (https://keybase.io/faaann) on keybase.
+  * I have a public key ASAaw77CUNy1sCQZpsc-Kam71DnIQ14geM55-69BN-Xwcgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201ac3bec250dcb5b02419a6c73e29a9bbd439c8435e2078ce79fbaf4137e5f0720a",
+            "host": "keybase.io",
+            "kid": "01201ac3bec250dcb5b02419a6c73e29a9bbd439c8435e2078ce79fbaf4137e5f0720a",
+            "uid": "1ba6096bc79baa2ad3bf0c56adc18419",
+            "username": "faaann"
+        },
+        "service": {
+            "hostname": "www.uhud.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1495367041,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495367016,
+        "hash": "b3e77c8f8f4fa5d7bbe72546a313ea184c9c888c9b3373cbd1b58dcad2a827a39d5a2895e57233866e5cf5e778beaf93a9116743961ad91addb30430ecc360e5",
+        "seqno": 1099114
+    },
+    "prev": "c81d9326d3984edc98ab9c7e49b8ee35cafd325ab6cc073fc5051a7327f6641d",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGsO+wlDctbAkGabHPimpu9Q5yENeIHjOefuvQTfl8HIKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWFjM2JlYzI1MGRjYjViMDI0MTlhNmM3M2UyOWE5YmJkNDM5Yzg0MzVlMjA3OGNlNzlmYmFmNDEzN2U1ZjA3MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWFjM2JlYzI1MGRjYjViMDI0MTlhNmM3M2UyOWE5YmJkNDM5Yzg0MzVlMjA3OGNlNzlmYmFmNDEzN2U1ZjA3MjBhIiwidWlkIjoiMWJhNjA5NmJjNzliYWEyYWQzYmYwYzU2YWRjMTg0MTkiLCJ1c2VybmFtZSI6ImZhYWFubiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LnVodWQuaW8iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIyIn0sImN0aW1lIjoxNDk1MzY3MDQxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTUzNjcwMTYsImhhc2giOiJiM2U3N2M4ZjhmNGZhNWQ3YmJlNzI1NDZhMzEzZWExODRjOWM4ODhjOWIzMzczY2JkMWI1OGRjYWQyYTgyN2EzOWQ1YTI4OTVlNTcyMzM4NjZlNWNmNWU3NzhiZWFmOTNhOTExNjc0Mzk2MWFkOTFhZGRiMzA0MzBlY2MzNjBlNSIsInNlcW5vIjoxMDk5MTE0fSwicHJldiI6ImM4MWQ5MzI2ZDM5ODRlZGM5OGFiOWM3ZTQ5YjhlZTM1Y2FmZDMyNWFiNmNjMDczZmM1MDUxYTczMjdmNjY0MWQiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA19MR0OPH6VM+kcZsdoinotoJdwEwbbcoKmEMIx+a1i0IfSkCK6092dlLmv80sDqSb9dxGQivuVpYm/pJ0XHXDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIsjcWOgqQH/3tZkGz9KlpKTVQtvbFnzWDw6EzFl0qsTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/faaann
+
+==================================================================
